@@ -1,7 +1,10 @@
 # Excel-Sales-Performance-Analysis-Dashboard
 Interactive Excel sales performance analysis and dashboard featuring data cleaning, PivotTables, advanced formulas, statistical analysis, forecasting, and VBA automation.
 
-####Live Dashboard: 
+#####Dashboard
+![image alt](https://github.com/parves-bappi/Excel-Sales-Performance-Analysis-Dashboard/blob/614656f7a235216142ae7d9433583a9eb447005c/Dashboard.png)
+
+#Live Dashboard: 
 https://1drv.ms/x/c/da857840d457558d/IQDyFoZ2KXP0QacE6Duego22AetWHWARGPGlfhdPk8C3UbE?e=wUUetH
 
 
@@ -48,6 +51,7 @@ The workbook includes a raw dataset and a structured clean data table. Data prep
 ---
 
 ### 2. Pivot Table Analysis
+![image alt](https://github.com/parves-bappi/Excel-Sales-Performance-Analysis-Dashboard/blob/614656f7a235216142ae7d9433583a9eb447005c/Pivot%20Tables.png)
 PivotTables are used to analyze:
 - Total Sales
 - Total Profit
@@ -104,6 +108,7 @@ The analysis then calculates:
 
 ---
 ### 6. Statistical Analysis
+![image alt](https://github.com/parves-bappi/Excel-Sales-Performance-Analysis-Dashboard/blob/614656f7a235216142ae7d9433583a9eb447005c/Statistical%20Analysis.png)
 The workbook includes descriptive statistical analysis of profit data.
 Metrics include:
 - Mean
@@ -118,6 +123,7 @@ Metrics include:
 
 ---
 ### 7. Sales Forecasting
+![image alt](https://github.com/parves-bappi/Excel-Sales-Performance-Analysis-Dashboard/blob/614656f7a235216142ae7d9433583a9eb447005c/Forecast.png)
 A dedicated forecast sheet is included to analyze historical sales and generate forecast values.
 The forecasting section includes:
 - Historical sales
@@ -127,8 +133,8 @@ The forecasting section includes:
 This demonstrates the use of Excel's forecasting capabilities for business planning.
 
 ---
-### 8. VBA Automation
-The workbook includes VBA automation for formatting profit data. The macro applies conditional formatting based on profit thresholds and provides automated formatting feedback. This demonstrates the integration of: (in one drive I show only the code)
+### 8. MACRO & VBA Automation
+The workbook includes VBA automation for formatting profit data. The macro applies conditional formatting based on profit thresholds and provides automated formatting feedback. This demonstrates the integration of: (in one drive I show only the code) 1[image alt](https://github.com/parves-bappi/Excel-Sales-Performance-Analysis-Dashboard/blob/614656f7a235216142ae7d9433583a9eb447005c/Macro.png)
 - VBA
 - Excel automation
 - Conditional formatting
@@ -146,7 +152,6 @@ The project includes an interactive Sales Dashboard designed to provide a high-l
 - Category-level performance
 - Business performance indicators
 
----
 ## Tools & Skills
 ### Microsoft Excel
 - Advanced Excel
