@@ -13,7 +13,7 @@ This project demonstrates an end-to-end sales performance analysis workflow buil
 
 ## Business Objective
 The objective of this project is to analyze sales and customer performance and provide actionable insights for business decision-making.
-Here is the Raw Data- ![image alt] (https://github.com/parves-bappi/Excel-Sales-Performance-Analysis-Dashboard/blob/828797c2c5a070bd4baf4c3176bb349d4129cc1c/Raw%20Data.png) to Clean Data - ![image alt] (https://github.com/parves-bappi/Excel-Sales-Performance-Analysis-Dashboard/blob/828797c2c5a070bd4baf4c3176bb349d4129cc1c/Clean%20Data.png)
+Here is the Raw Data- ![image alt](https://github.com/parves-bappi/Excel-Sales-Performance-Analysis-Dashboard/blob/828797c2c5a070bd4baf4c3176bb349d4129cc1c/Raw%20Data.png) to Clean Data - ![image alt](https://github.com/parves-bappi/Excel-Sales-Performance-Analysis-Dashboard/blob/828797c2c5a070bd4baf4c3176bb349d4129cc1c/Clean%20Data.png)
 
 The analysis focuses on:
 
