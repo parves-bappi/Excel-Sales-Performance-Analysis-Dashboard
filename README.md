@@ -216,3 +216,8 @@ The workbook calculates several high-level business performance indicators. Exam
 These metrics are generated from the project dataset and are used to support the dashboard and analytical outputs.
 
 ---------
+
+## 📄 Bonus: Project Report
+
+A brief report is also included, providing additional details about the project and dashboard.
+📑 [View Project Report (PDF)](https://github.com/parves-bappi/Excel-Sales-Performance-Analysis-Dashboard/blob/99aae5a3d3498ac708f60c0255b9f8b68e800c53/Performance%20Evaluation%20in%20Excel.pdf)
